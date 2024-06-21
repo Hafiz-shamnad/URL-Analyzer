@@ -1,7 +1,7 @@
 
-# Website Security Checker
+# URL ANALYZER TOOL
 
-Check the security status of any website with this Website Security Checker tool, built using React and Flask.
+Check the security status of any website with this URL Analyzer Tool, built using React and Flask.
 
 ## Features
 
@@ -16,8 +16,8 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/website-security-checker.git
-   cd website-security-checker
+   git clone https://github.com/your-username/URL-Analyzer.git
+   cd URL-Analyzer
    ```
 
 2. **Install dependencies**:
