@@ -1,5 +1,5 @@
 
-# URL ANALYZER TOOL
+# Url Analyzer Tool
 
 Check the security status of any website with this URL Analyzer Tool, built using React and Flask.
 
